@@ -1,0 +1,21 @@
+form{
+    width: 45%;
+    border: 1px solid gray;
+    padding: 20px;
+    margin: auto;
+    margin-top: 20px;
+    text-align: left;
+}
+input{
+    margin-bottom: 10px;
+}
+.author{
+    margin-right: 12%;
+    width: 40%;
+}
+.form-description{
+  width: 92%;
+}
+.location{
+    width: 38%;
+}
